@@ -1,0 +1,1 @@
+This is simple webapp connected to mongodb, implemented using Kubernetes (Minikube).
